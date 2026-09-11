@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://novastrikes.com/"><img src="https://img.shields.io/badge/PORTFOLIO-novastrikes.com-000000?style=for-the-badge&logo=google-chrome&logoColor=00F2FE"/></a>
-  <a href="https://openqr.tech/"><img src="https://img.shields.io/badge/APP-OpenQR.tech-00F2FE?style=for-the-badge&logo=fastapi&logoColor=black"/></a>
+  <a href="https://openqr.tech/"><img src="https://img.shields.io/badge/APP-OpenQR.tech-00F2FE?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="https://superhivemarket.com/creators/novastrikes"><img src="https://img.shields.io/badge/SUPERHIVE_MARKET-Store-FF5722?style=for-the-badge&logo=gumroad&logoColor=white"/></a>
   <a href="https://twitter.com/novastrikeshq"><img src="https://img.shields.io/badge/X-@novastrikeshq-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
@@ -35,7 +35,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=blender,py,ts,react,nextjs,nodejs,tailwind,docker,git,figma,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender,py,js,html,css,react,nextjs,nodejs,tailwind,git,figma,vscode&theme=dark" />
 </a>
 
 <br/>
@@ -43,8 +43,8 @@
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **3D & DCC Engineering** | `Blender (bpy API)` · `Python` · `Cycles / Eevee` · `Shader Nodes` · `Geometry Nodes` |
-| **Frontend & Products** | `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `UI/UX Design` |
-| **Backend & Scripting** | `Python (Automation & Scraping)` · `Node.js` · `REST APIs` · `Git / GitHub Actions` |
+| **Frontend & Web Apps** | `JavaScript (ES6+)` · `HTML5` · `CSS3` · `React` · `Tailwind CSS` · `UI/UX Design` |
+| **Backend & Automation** | `Python (Automation & Scraping)` · `Node.js` · `REST APIs` · `Git / GitHub Actions` |
 
 </div>
 
@@ -60,7 +60,7 @@
 | **[Flowkeys](https://github.com/NvxStrikes/flowkey_lite)** | Instant N-Panel shortcut reference overlay for Object Mode | `Blender` `Python` | ![Active](https://img.shields.io/badge/v1.0-Active-brightgreen?style=flat-square) |
 | **[Palette Manager](https://github.com/NvxStrikes/palette-manager-free)** | Persistent named color palette manager for 3D look-dev | `Blender` `Python` | ![Active](https://img.shields.io/badge/v1.0-Active-brightgreen?style=flat-square) |
 | **[Smart Render Guard](https://github.com/NvxStrikes/smart-render-guard)** | Crash prevention & missing frame validator for render batches | `Blender` `Python` | ![Active](https://img.shields.io/badge/v1.0-Active-brightgreen?style=flat-square) |
-| **[OpenQR](https://openqr.tech/)** | Modern, customizable QR generation engine & web platform | `TypeScript` `React` | [![Live](https://img.shields.io/badge/Live-openqr.tech-00F2FE?style=flat-square)](https://openqr.tech/) |
+| **[OpenQR](https://openqr.tech/)** | Modern, customizable QR generation engine & web platform | `JS` `HTML5` `CSS3` | [![Live](https://img.shields.io/badge/Live-openqr.tech-00F2FE?style=flat-square)](https://openqr.tech/) |
 
 </div>
 
