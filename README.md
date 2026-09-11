@@ -83,13 +83,13 @@
 <div align="center">
 
 <!-- ANIMATED STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NvxStrikes&theme=tokyonight&hide_border=true&background=0D1117&fire=00F2FE&ring=7928CA&currStreakNum=00F2FE" alt="NovaStrikes Streak" height="155"/>
+<img src="https://streak-stats.demolab.com?user=NvxStrikes&theme=tokyonight&hide_border=true&background=0D1117&fire=00F2FE&ring=7928CA&currStreakNum=00F2FE" alt="NovaStrikes Streak" height="165"/>
 
 <br/>
 
 <!-- STATS CARDS -->
-<img src="https://github-readme-stats.vercel.app/api?username=NvxStrikes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF5722&text_color=C9D1D9" height="155" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NvxStrikes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" height="155" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=NvxStrikes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF5722&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NvxStrikes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" height="165" alt="Top Languages" />
 
 </div>
 
