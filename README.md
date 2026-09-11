@@ -88,7 +88,7 @@
 <br/>
 
 <!-- STATS CARDS -->
-<img src="https://github-stats-extended.vercel.app/api?username=NvxStrikes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF5722&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=NvxStrikes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF5722&text_color=C9D1D9&hide_rank=true&hide=prs,issues,contribs&include_all_commits=true" height="165" alt="GitHub Stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NvxStrikes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9" height="165" alt="Top Languages" />
 
 </div>
